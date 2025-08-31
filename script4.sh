@@ -3,6 +3,3 @@
 name="World"
 echo "Hello, $name!"
 echo "${name}"
-echo '${name}'
-
-
