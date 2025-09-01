@@ -4,3 +4,5 @@
 echo -e "Hi, please type the word: \c "
 read  word
 echo "The word you entered is: $word"
+echo "Can you please enter two words? "
+read word1 word2
