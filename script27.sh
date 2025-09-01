@@ -7,3 +7,6 @@ echo "The word you entered is: $word"
 echo "Can you please enter two words? "
 read word1 word2
 echo "Here is your input: \"$word1\" \"$word2\""
+echo -e "How do you feel about bash scripting? "
+read
+echo "You said $REPLY, I'm glad to hear that! "
